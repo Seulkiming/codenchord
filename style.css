@@ -70,7 +70,17 @@ section ul li{
 	list-style-type: square:;
 }
 #curriculum ol li{
+	font-size: 0.9rem;
 	line-height: 2rem;
+}
+#curriculum .enroll{
+	padding: 20px 0 40px;
+	text-align: center;
+}
+#curriculum .enroll .btn{
+	padding: 10px 20px;
+	background-color: black;
+	color: white;
 }
 .history-pic{
 	width: 33%;
